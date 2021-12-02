@@ -1,5 +1,6 @@
 #include<stido.h>
+#include<conio.h>
 void main()
 {
-	count << "Hello World";
+	cout << "Hello World";//User1 cung su lenh Cout cho nay
 }
