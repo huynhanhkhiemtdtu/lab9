@@ -1,5 +1,6 @@
 #include<stido.h>
+#include<iostream.h>
 void main()
 {
-	count << "Hello World";
+	cout << "Hello World";//sua lai cout
 }
